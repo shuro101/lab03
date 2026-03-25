@@ -3,6 +3,9 @@
 #include <string.h>
 
 int main() {
+    //trial run
+ 
+
     // #1 Allocating Memory for an Array of Integers
     int n = 5; // Size of the array
     int *arr = malloc(5 * sizeof(int)); // Allocate memory for 5 integers
